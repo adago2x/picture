@@ -1,2 +1,2 @@
 # picture
-pic
+此为图片仓库
